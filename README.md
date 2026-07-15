@@ -353,15 +353,15 @@ git push origin feature/new-feature
 
 # 👨‍💻 Author
 
-**Saurabh Rai**
+**Neha Singh**
 
 AI & ML Undergraduate
 
 MERN Stack Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/neha10sys
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/neha-singh-66455a343/
 
 ---
 
