@@ -271,31 +271,26 @@ GET    /api/trust-score
 
 ### Landing Page
 
-(Add Screenshot Here)
+<img width="1517" height="727" alt="image" src="https://github.com/user-attachments/assets/a2b36cda-2fa7-4ae2-85b8-dfa5751f378b" />
 
----
 
 ### Developer Dashboard
 
-(Add Screenshot Here)
+<img width="1517" height="725" alt="image" src="https://github.com/user-attachments/assets/41e2713e-e6d8-44c9-84ec-d602138edaeb" />
 
 ---
 
 ### Recruiter Dashboard
 
-(Add Screenshot Here)
+<img width="1517" height="725" alt="image" src="https://github.com/user-attachments/assets/678af1e7-46d5-4408-8771-32453c0469bf" />
+
 
 ---
 
 ### Profile
 
-(Add Screenshot Here)
+<img width="1521" height="725" alt="image" src="https://github.com/user-attachments/assets/80058eb3-013d-4fe6-9547-1bbef37861a0" />
 
----
-
-### Trust Score
-
-(Add Screenshot Here)
 
 ---
 
